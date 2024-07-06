@@ -36,7 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-#developer Guid to run this project
+## Developer Guid to run this project
 1. git clone https://github.com/Pradhumen/NextToDoList.git
 2. user node v20.7.0  for select use nvm use v20.7.0 or install nvm i v20.7.0
 3. npm i   for install all dependancy related to this project so node_module folder genrate in your folder.
